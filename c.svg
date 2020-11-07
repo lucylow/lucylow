@@ -31,7 +31,7 @@ a    { outline:none; }
            -webkit-animation: rot 14.37s linear infinite; }
 .rot_com { animation:         rot 12.62s linear infinite;
            -moz-animation:    rot 12.62s linear infinite;
-           -webkit-animation: rot 12.62s linear infinite; }
+           -webkit-animation: rot 12.62s linear infinite; } 
 .rot_gps { animation:         rot 11.97s linear infinite;
            -moz-animation:    rot 11.97s linear infinite;
            -webkit-animation: rot 11.97s linear infinite; }
